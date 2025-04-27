@@ -34,4 +34,4 @@ This project simulates a **Distributed Denial of Service (DDoS)** attack using *
 
 
 ## Conclusion:
-This project demonstrates how to detect and mitigate DDoS attacks using **Wireshark** and basic firewall configurations. It is a valuable hands-on experience for SOC Analysts in understanding network traffic and attack mitigation strategies.
+This project demonstrates how to detect and mitigate DDoS attacks using **Wireshark** . It is a valuable hands-on experience for SOC Analysts in understanding network traffic and attack strategies.
